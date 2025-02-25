@@ -1,0 +1,11 @@
+{
+    "name": "angular-gesture-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-gesture-ui": "file:../stencil-gesture-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
